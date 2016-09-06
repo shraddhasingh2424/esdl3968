@@ -13,3 +13,7 @@ int subtract (int p, int q)
 {
   return p-q;
 }
+int multiply(int p, int q)
+{
+ return p*q;
+}
